@@ -1,0 +1,213 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  
+  letter-spacing: 1px;
+  font-family: 'FRANKLIN GOTHIC HEAVY', sans-serif;
+}
+.container{
+  color:white ;
+}
+
+h1 { 
+     color:white;
+     font-size:90px;
+}
+h2 {
+    color:white;   
+    font-size:50px; 
+    text-align: center;
+}
+h3 {
+    font-size:32px;
+    text-align:center; 
+    color: white;
+}
+
+body {
+    background: #a0a0a0;
+  }
+.wrap {
+    margin: 0 8em;
+} 
+
+.container {
+  background: white;
+}
+.teritu {
+  text-align: center;
+  letter-spacing: 0.01px;
+  height: 50;
+
+}
+
+.app {
+
+text-align: center;
+text-transform: capitalize;
+
+
+}
+button.app {
+
+   font-size: 15px;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: capitalize;
+    display: inline-block;
+    letter-spacing: 1px;
+    outline: none;
+    font-weight: 400;
+    border-radius: 0px;
+    background-color: #07125f;
+    padding: 8px 15px;
+    border: none;
+
+}
+
+
+.outs_more-buttnss  {
+  font-size: 15px;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: capitalize;
+    display: inline-block;
+    letter-spacing: 1px;
+    outline: none;
+    font-weight: 400;
+    border-radius: 0px;
+    background-color: #ffffff;
+    padding: 12px 19px;
+    border: none;
+}
+
+
+a.banner-button, button.submit {
+    background: #fff;
+    color: #f90772;
+    letter-spacing: 1px;
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+    padding: 14px 24px;
+
+}
+a.outs_more-buttn ,button.submit {
+    font-size: 15px;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: capitalize;
+    display: inline-block;
+    letter-spacing: 1px;
+    outline: none;
+    font-weight: 400;
+    border-radius: 0px;
+    background-color: #07125f;
+    padding: 8px 15px;
+    border: none;
+  }
+  .outs_more-buttn{
+      font-size: 15px;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: capitalize;
+    display: inline-block;
+    letter-spacing: 1px;
+    outline: none;
+    font-weight: 400;
+    border-radius: 0px;
+    background-color: #07125f;
+    padding: 8px 15px;
+    border: none;
+    
+  }
+a.text.dark  {
+    background: #fff;
+    color: #f90772;
+    letter-spacing: 1px;
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+    padding: 14px 24px;
+}
+
+span {
+    color:white;
+    font-family:"Monospace";
+    border-style: dashed;
+    border-color: white; 
+    
+
+}
+
+.top-title {
+  text-align: center;
+  font-size: 2em;
+}
+
+.outs_more-buttns{
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+    text-transform: capitalize;
+    display: inline-block;
+    letter-spacing: 1px;
+    outline: none;
+    font-weight: 400;
+    border-radius: 0px;
+    background-color: #ffffff;
+    padding: 10px 17px;
+    border: none;
+     padding: 2em 1.5em;
+    box-shadow: 1px 1px 9px #cecece;
+    background: #f7f7f7;
+    text-align: center;
+}
+
+
+.list_of_cities{
+  color:darkblue;
+  text-align: center;
+
+}  
+.oye_yar{
+
+
+
+}
+
+}
+
+}
+select,
+input[type="email"],
+input[type="text"],
+input[type="password"S],
+input[type="button"],
+input[type="submit"],
+textarea {
+  font-size: 15px;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: capitalize;
+    display: inline-block;
+    letter-spacing: 1px;
+    outline: none;
+    font-weight: 400;
+    border-radius: 0px;
+    background-color: #07125f;
+    padding: 8px 15px;
+    border: none;
+}
+span.opps {
+text-align: center;
+  border-style: dashed;
+  border-color: red;
+}
+button {
+  grid-row-start: div
+}
